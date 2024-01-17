@@ -8,8 +8,8 @@ import { useForm } from '../../hooks/useForm';
 import { useMemo } from 'react';
 
 const formData = {
-  email: 'jemax@gmail.com',
-  password: '123456'
+  email: '',
+  password: ''
 }
 
 export const LoginPage = () => {
